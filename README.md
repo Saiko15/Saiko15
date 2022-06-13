@@ -18,7 +18,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiko15&layout=compact&theme=tokyonight) -->
 
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saiko15.saiko15) --> -->
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saiko15.saiko15) -->
 
 <h1 align="center">Hi 👋, I'm <a href="https://saiko15.github.io/ahmedsayed/">Ahmed</a></h1>
 <h3 align="center">Enthusiast Data Scienist</h3>
@@ -38,7 +38,7 @@
 <a href="https://kaggle.com/saiko15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saiko15" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmedsaiko42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedsaiko42" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saiko15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saiko15" height="30" width="40" /></a>
-<a href="/https://saiko15.github.io/ahmedsayed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://saiko15.github.io/ahmedsayed/" height="30" width="40" /></a>
+<!-- <a href="/https://saiko15.github.io/ahmedsayed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://saiko15.github.io/ahmedsayed/" height="30" width="40" /></a> -->
 <a href="mailto:ahmadd.sayed.ali@gmail.com">
     <img align="left" alt="Ahmed Sayed | Gmail" width="26px" src="https://raw.githubusercontent.com/Saiko15/Saiko15/main/Assets/Gmail.svg" />
   </a>
