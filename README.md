@@ -26,6 +26,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saiko15.saiko15)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiko15&label=Profile%20views&color=0e75b6&style=flat" alt="saiko15" /> </p> -->
 
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 - 👨‍💻 All of my projects are available at [Portfolio](https://saiko15.github.io/ahmedsayed/)
 
 - 📫 How to reach me [**ahmadd.sayed.ali@gmail.com**](mailto:ahmadd.sayed.ali@gmail.com)
