@@ -45,7 +45,7 @@
 <a href="mailto:ahmadd.sayed.ali@gmail.com">
     <img align="left" alt="Ahmed Sayed | Gmail" width="26px" src="https://raw.githubusercontent.com/Saiko15/Saiko15/main/Assets/Gmail.svg" />
   </a>
-  <a href="https://linkedin.com/in/saiko15" target="blank"><img align="center" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="saiko15" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/saiko15" target="blank"><img align="center" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="saiko15" height="30" width="90" /></a>
 </p>
 
 ## Languages and Tools:
